@@ -1,0 +1,28 @@
+First to start make envierment (Implement Game Class) we implement pygame 
+and pytorch:
+So we should install all the depandeces and start by import conde to mange 
+enviermnet (If u don't have an anaconda go to 
+https://www.anaconda.com/products/distribution and install it, 
+after that connect conda with python in Vscode)
+
+
+
+Go to bash terminal for example :
+
+** Now after that Go to VScode
+$ conda create -n pygame_env python=3.7
+$ conda activate pygame_env
+
+** after that install pygame
+$ pip install pygame 
+
+** next thing that we need is pyTorch (https://pytorch.org/get-started/locally/) 
+choose Pip and get this line:
+$ pip install torch torchvision torchaudio
+
+now we need 2 more things also libraries:
+$ pip install matplotlib ipython
+
+after that if u want to run our code:
+$ python agent.py
+ 
