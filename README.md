@@ -1,5 +1,7 @@
 main idea: Project teches it's self how to play snake 
+
 We get support by: https://www.freecodecamp.org/news/train-an-ai-to-play-a-snake-game-using-python/
+
 Represintaion By me Waleed and Ahmad: 
 
 We start by the game with pygame, 
